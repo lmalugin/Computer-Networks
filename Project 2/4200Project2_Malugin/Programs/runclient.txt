@@ -1,1 +1,0 @@
-python3 client.py -s 34.125.15.174 -p 8001 -l client.log
