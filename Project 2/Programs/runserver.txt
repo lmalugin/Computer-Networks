@@ -1,0 +1,1 @@
+python3 server.py -p 8001 -l server.log
